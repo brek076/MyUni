@@ -1,7 +1,5 @@
-import Fabric.EllipseMaker;
-import Fabric.RectangleMaker;
-
-import java.awt.geom.Rectangle2D;
+import factor.Fabric.EllipseMaker;
+import factor.Fabric.RectangleMaker;
 
 public class Main {
     public static void main(String[] args) {

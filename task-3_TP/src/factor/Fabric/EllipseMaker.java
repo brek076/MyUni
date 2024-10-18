@@ -1,4 +1,4 @@
-package Fabric;
+package factor.Fabric;
 
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.RectangularShape;
